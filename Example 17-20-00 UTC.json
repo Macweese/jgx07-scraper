@@ -6,8 +6,7 @@
 		{"world":"474","population":"67","location":"United States","access":"Members","activity":"High Risk World"},
 		{"world":"345","population":"21","location":"United States","access":"Members","activity":"Deadman"},
 		{"world":"434","population":"21","location":"United States","access":"Free","activity":"-"},
-		]
-	},
+		],
 	"Stats":{
 		"Servers Online":240,
 		"Players Online":22785,
