@@ -16,16 +16,17 @@ Automatically scrapes Jagex website for OldSchool RuneScape every 10 minutes[^1]
 ### Format
 The contents of the output file are structured as; array followed by object with data points.
 ```
-[
-    {
-    Server[]:
+{
+    "Server":
+    [
         {worldObject},
         {worldObject}
-    },
+    ],
+    "Stats":
     {
-    data{}
+        "abc":391
     }
-]
+}
 ```
 
 See this [example](https://github.com/Macweese/osrs-web-scrape/blob/main/Example%2017-20-00%20UTC.json "Output file format") for reference on what the file contents look like.
