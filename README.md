@@ -3,7 +3,7 @@
 Tool for scraping OldSchool RuneScape data.
 
 
-#### [Download](https://github.com/Macweese/osrs-web-scrape/releases/download/v1.0.1/Crawler.exe "Download Executable")
+#### [Download](https://github.com/Macweese/osrs-web-scrape/releases/download/v1.1.0/Crawler.exe "Download Executable")
 
 
 ___
@@ -32,6 +32,8 @@ The contents of the output file are structured as; array followed by object with
 See this [example](https://github.com/Macweese/osrs-web-scrape/blob/main/Example%2017-20-00%20UTC.json "Output file format") for reference on what the file contents look like.
 ___
 ### Notes
+For this program to work you need to have Java 11 installed.
+
 The output file will be named after the time of the execution in UTC time E.g. "2022-03-23 15-50-00 UTC.json".  
 Each resulting file will be around 25kb in size. Trimming would only save about 1kb while making it unreadable, deemed not worth.
 
