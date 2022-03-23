@@ -1,19 +1,19 @@
-[
-	{
-		"Servers":[
-			{"world":"415","population":"56","location":"United States","access":"Members","activity":"2200 skill total"},
-			{"world":"361","population":"66","location":"United States","access":"Members","activity":"2000 skill total"},
-			{"world":"474","population":"67","location":"United States","access":"Members","activity":"High Risk World"},
-			.
-			.
-			.
-			{"world":"345","population":"21","location":"United States","access":"Members","activity":"Deadman"},
-			{"world":"434","population":"21","location":"United States","access":"Free","activity":"-"},
+
+{
+	"Servers":[
+		{"world":"415","population":"56","location":"United States","access":"Members","activity":"2200 skill total"},
+		{"world":"361","population":"66","location":"United States","access":"Members","activity":"2000 skill total"},
+		{"world":"474","population":"67","location":"United States","access":"Members","activity":"High Risk World"},
+		{...}
+		{...}
+		{...}
+		{"world":"345","population":"21","location":"United States","access":"Members","activity":"Deadman"},
+		{"world":"434","population":"21","location":"United States","access":"Free","activity":"-"},
 		]
 	},
-	{
-		"Players Online":22785,
+	"Stats":{
 		"Servers Online":240,
+		"Players Online":22785,
 		"Free-To-Play":2222,
 		"Members":20563,
 		"US":9123,
@@ -33,4 +33,4 @@
 		"Skill Total 1750":325,
 		"Skill Total 1500":386
 	}
-]
+}
