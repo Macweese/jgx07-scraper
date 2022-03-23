@@ -1,0 +1,36 @@
+[
+	{
+		"Servers":[
+			{"world":"415","population":"56","location":"United States","access":"Members","activity":"2200 skill total"},
+			{"world":"361","population":"66","location":"United States","access":"Members","activity":"2000 skill total"},
+			{"world":"474","population":"67","location":"United States","access":"Members","activity":"High Risk World"},
+			.
+			.
+			.
+			{"world":"345","population":"21","location":"United States","access":"Members","activity":"Deadman"},
+			{"world":"434","population":"21","location":"United States","access":"Free","activity":"-"},
+		]
+	},
+	{
+		"Players Online":22785,
+		"Servers Online":240,
+		"Free-To-Play":2222,
+		"Members":20563,
+		"US":9123,
+		"EU":4817,
+		"UK":6542,
+		"AU":2303,
+		"Deadman":21,
+		"PvP Free":43,
+		"PvP Members":111,
+		"PvP High Risk":22,
+		"High Risk":284,
+		"Wilderness PK Free":260,
+		"Wilderness PK Members":54,
+		"Bounty Hunter":83,
+		"Skill Total 2200":203,
+		"Skill Total 2000":377,
+		"Skill Total 1750":325,
+		"Skill Total 1500":386
+	}
+]
