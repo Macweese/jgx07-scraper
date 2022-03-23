@@ -28,7 +28,7 @@ The contents of the output file are structured as; array followed by object with
 ]
 ```
 
-See this [example](https://github.com/Macweese/web-scrape/blob/master/Example%2017-20-00%20UTC.json "Output file format") for reference on what the file contents look like.
+See this [example](https://github.com/Macweese/osrs-web-scrape/blob/main/Example%2017-20-00%20UTC.json "Output file format") for reference on what the file contents look like.
 ___
 ### Notes
 The output file will be named after the time of the execution in UTC time E.g. "2022-03-23 15-50-00 UTC.json".  
