@@ -42,6 +42,7 @@ The program will persist through failures/crashes and restart itself.
 
 __If you wish to close the program you will have to manually close it[^3] through task manager.__
 
-[^1]: Bundled archive containing JRE and executable. The executable alone is available for download [here](https://github.com/Macweese/osrs-web-scrape/releases/download/v1.1.0/Crawler.exe).
+
+[^1]: Bundled archive containing JRE and executable (recommended download). Otherwise, the executable alone is available for download [here](https://github.com/Macweese/osrs-web-scrape/releases/tag/v1.1.0).
 [^2]: The program will automatically scrape every 10 minutes on the 10th minute mark. Which means it will execute every 0-, 10-, 20-, 30-, 40-, and 50th minute of the hour.
 [^3]: Terminate the process named "Crawler.exe(32-bit)".
